@@ -11,9 +11,9 @@ O projeto **Maternidade em Ação** nasceu para resolver esse problema. É um ch
 **Criatividade na Interação:** Longe de ser um formulário ou uma lista genérica, o chatbot **Maternidade em Ação** interage através de uma conversa guiada. Ele te convida a refletir sobre situações *reais* e *específicas* do seu dia a dia como mãe.
 
 **Eficácia na Análise e Tradução:**
-1.  **Exploração Narrativa:** O chatbot faz perguntas estratégicas sobre como você lidou com desafios na maternidade (gerenciar múltiplas tarefas, resolver conflitos entre filhos, planejar eventos familiares, etc.).
-2.  **Análise Inteligente:** Utiliza **Inteligência Artificial (Google Gemini)** para analisar a *essência* das suas respostas e identificar as habilidades profissionais subjacentes que você demonstrou naquela situação. Não apenas busca palavras-chave, mas compreende o contexto da sua "ação" e "resultado".
-3.  **Tradução para a Carreira:** As habilidades identificadas são traduzidas para o vocabulário do mercado de trabalho. O chatbot sugere frases e exemplos que você pode usar diretamente no seu **currículo, perfil do LinkedIn, ou como resposta em entrevistas**, conectando sua experiência materna às exigências profissionais.
+1.  **Exploração Narrativa:** O chatbot faz perguntas estratégicas sobre como a mãe lidou com desafios na maternidade (gerenciar múltiplas tarefas, resolver conflitos entre filhos, planejar eventos familiares, etc.).
+2.  **Análise Inteligente:** Utiliza **Inteligência Artificial (Google Gemini)** para analisar a *essência* das respostas e identificar as habilidades profissionais subjacentes que demonstrou naquela situação. Não apenas busca palavras-chave, mas compreende o contexto da "ação" e "resultado".
+3.  **Tradução para a Carreira:** As habilidades identificadas são traduzidas para o vocabulário do mercado de trabalho. O chatbot sugere frases e exemplos que pode usar diretamente no **currículo, perfil do LinkedIn, ou como resposta em entrevistas**, conectando a experiência materna às exigências profissionais.
 
 Essa abordagem criativa transforma a própria narrativa da maternidade em uma fonte poderosa e validada de desenvolvimento profissional.
 
